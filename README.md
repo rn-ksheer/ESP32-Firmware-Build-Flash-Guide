@@ -62,7 +62,7 @@ The output file will be:
 5. Configure the following settings:
 
 | Setting | Value |
-|---|---|
+|:---:|:---:|
 | Baud Rate | `921600` |
 | SPI Speed | `40 MHz` |
 | SPI Mode | `DIO` |
