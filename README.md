@@ -1,9 +1,10 @@
-# ESP32 Firmware Build & Flash Guide | Production & Batch Flashing <img width="3%" alt="pngtree-chip-chip-circuit-sign-vector-png-image_45247508" src="https://github.com/user-attachments/assets/91515c0a-8306-4986-b3e0-df7a9865cb58" />
+# ESP32 Firmware Build & Flash Guide | Production & Batch Flashing <img width="3%" alt="pngtree-chip-chip-circuit-sign-vector-png-image_45247508" src="https://github.com/user-attachments/assets/91515c0a-8306-4986-b3e0-df7a9865cb58" /> 
+
 
 
 This guide explains how to compile an Arduino sketch, combine the required BIN files into a single firmware file, and flash it to an ESP32 or ESP32-C3 using Flash Download Tool.
 
-## 1. Requirements
+## 1. Requirements <img width="2%" alt="Windows 11" src="https://github.com/user-attachments/assets/716cde3e-3ea4-43ad-a4bd-1049a27e8c24" />
 
 - Arduino IDE **2.3.2 or above**
 - Correct ESP32 board package version
